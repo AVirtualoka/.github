@@ -8,9 +8,8 @@ Private Type Foundry
 - Ayu
 - Izvari
 - Jelita
-## Hi there 👋
-
 <!--
+## Hi there 👋
 
 **Here are some ideas to get you started:**
 
