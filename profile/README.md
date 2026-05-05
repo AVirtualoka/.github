@@ -1,4 +1,4 @@
-# Atelier Virtualoka
+# VL Atelier
 Private Type Foundry
 
 # In Development
